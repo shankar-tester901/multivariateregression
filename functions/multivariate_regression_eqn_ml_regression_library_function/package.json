@@ -1,0 +1,12 @@
+{
+	"name": "multivariate_regression_eqn_ml_regression_library_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "shankarr+1002@zohocorp.com",
+	"dependencies": {
+		"convert-csv-to-json": "^1.3.0",
+		"express": "^4.17.1",
+		"ml-regression": "^5.0.0",
+		"zcatalyst-sdk-node": "latest"
+	}
+}

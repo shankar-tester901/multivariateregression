@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "targets": [
+      "multivariate_regression_eqn_ml_regression_library_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}

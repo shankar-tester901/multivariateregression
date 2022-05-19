@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "multivariate_regression_eqn_ml_regression_library_function",
+		"stack": "node10",
+		"type": "advancedio"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}
